@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sqlite_All_Wakelock</string>
+    <string name="default_id">id</string>
+    <string name="default_timestamp">timestamp</string>
+    <string name="default_latitude">latitude</string>
+    <string name="default_longitude">longitude</string>
+</resources>
